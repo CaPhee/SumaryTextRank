@@ -1,0 +1,109 @@
+﻿Các thuật ngữ Agile
+ 
+Agile Software Development - Phát triển phần mềm linh hoạt
+
+Một họ các phương pháp phát triển phần mềm dựa theo các giá trị và nguyên tắc được định nghĩa bởi AgileAlliance.org.
+
+Burndown Chart - Biểu đồ Burndown
+
+Là biểu đồ thể hiện xu hướng của công việc còn lại theo thời gian trong một Sprint, một bản phát hành (Release), hoặc sản phẩm. Dữ liệu cho Biểu đồ Burndown được lấy từ Sprint Backlog và Product Backlog, với công việc còn lại được theo dõi trên trục tung và khoảng thời gian (các ngày trong một Sprint, hoặc nhiều Sprint) theo dõi trên trục hoành. Biểu đồ Burndown được dùng cho Bản phát hành (khi đó gọi là Release Burndown) hoặc cho Sprint (gọi là Sprint Burndown).
+
+Chicken - Gà
+
+Một người nào đó quan tâm đến dự án nhưng không có  trách nhiệm trong dự án (không giữ các vai trò Nhóm Phát triển, Product Owner hay Scrum Master).
+
+Daily Scrum – Buổi họp hằng ngày (hay Họp Scrum hằng ngày)
+
+Một cuộc họp ngắn được tổ chức hàng ngày của mỗi Nhóm Phát triển, trong thời gian đó các thành viên của nhóm kiểm tra công việc của họ, đồng bộ hóa công việc và tiến độ của mình và báo cáo các vấn đề để giải quyết. Nhóm và Scrum Master có thể phải tiến hành các hoạt động tiếp theo Daily Scrum để thích ứng với công việc sắp tới và tối tưu hóa Sprint.
+
+Done – Hoàn thành
+
+Định nghĩa về sự hoàn thành (Done Definition - Định nghĩa Hoàn thành) được đồng thuận giữa tất cả các bên và phù hợp với tiêu chuẩn, quy ước của tổ chức cũng như các chỉ dẫn khác. Khi một công việc được ghi nhận là  "Done" tại cuộc họp Sơ kết Sprint , nó phải phù hợp với định nghĩa về sự hoàn thành này.
+
+Estimated Work Remaining - Công việc ước tính còn lại
+
+Số giờ mà một thành viên của nhóm ước lượng để thực hiện một công việc nào đó. Ước lượng này được cập nhật hằng ngày khi thành viên đó thực hiện  công việc trong Sprint Backlog. Đây là con số ước tính tổng số giờ  còn lại để hoàn thành công việc, không kể đến số lượng người thực hiện công việc hay số giờ đã bỏ ra cho công việc ấy trong quá khứ.
+
+Empirical Process Control – Quản lý tiến trình thực nghiệm
+
+Đây là phương pháp quản lý các tiến trình (process) không dựa trên giả định và tính toán lý thuyết (Predictive management) mà dựa trên các khảo sát kĩ lưỡng và thích nghi với các biến động trên thực tiễn.
+
+Increment - Phần tăng trưởng
+
+Là phần tăng trưởng của sản phẩm được phát triển bởi Nhóm Phát triển trong mỗi Sprint. Đôi khi increment được dịch gần đúng là “gói phần mềm”, hay đơn giản là gói.
+
+Increment of Potentially Shippable Product Functionality
+
+Một phần nhỏ nhưng hoàn chỉnh của  sản phẩm tổng thể hoặc hệ thống có thể được sử dụng bởi chủ sở hữu sản phẩm hoặc các bên liên quan.
+
+Iteration – Phân đoạn
+
+Trong các phương pháp phát triển linh hoạt, iteration chỉ một phân đoạn với khoảng thời gian ngắn nhằm phát triển một phần nhỏ của hệ thống. Một dự án sẽ gồm nhiều phân đoạn lặp đi lặp lại.
+
+Sprint - Phân đoạn nước rút trong Scrum
+
+Một phân đoạn (iteration), là một chu kỳ lặp đi lặp lại công việc tương tự nhằm tạo ra các phần tăng trưởng (increment) cho hệ thống. Sprint thường kéo dài từ một tuần tới một tháng.Trong suốt dự án, thời gian cho một Sprint là cố định. Từ “sprint” có nghĩa là giai đoạn nước rút, ám chỉ sự gấp gáp và tập trung cao độ trong khoảng thời gian ngắn để làm việc.
+
+Pig – lợn
+
+Một người nào đó thực hiện một trong ba vai trò của Scrum (Team, Product Owner hoặc Scrum Master), người đã có những cam kết và có quyền để thực hiện cam kết của mình.
+
+Product Backlog
+
+Một danh sách ưu tiên của các yêu cầu với thời gian ước tính để biến chúng thành các tính năng  hoàn chỉnh của sản phẩm. Các hạng mục được ưu tiên hơn trong Product Backlog được ước lượng cẩn thận hơn, và thường chính xác hơn các phần khác. Danh sách này có thể thay đổi khi có sự thay đổi trong điều kiện kinh doanh hoặc công nghệ. Trong tiếng Anh, 'backlog' có nghĩa là phần việc tồn đọng, cần phải giải quyết.
+
+Product Backlog Item - Hạng mục Product Backlog
+
+Một  yêu cầu chức năng hay phi chức năng, và các vấn đề được sắp độ ưu tiên. Độ chính xác của ước lượng phụ thuộc vào tầm quan trọng và độ chi tiết của hạng mục đó. Phần có độ ưu tiên cao nhất  sẽ được chọn trong Sprint tiếp theo để làm việc.
+
+Product Owner – Chủ sản phẩm
+
+Người chịu trách nhiệm quản lý Product Backlog để tối đa hóa giá trị của dự án. Chủ sở hữu sản phẩm có trách nhiệm đại diện cho lợi ích của tất cả mọi người có quyền lợi  trong dự án và sản phẩm được tạo ra sau dự án.
+
+Release – Bản phát hành
+
+Là sản phẩm đầy đủ các chức năng theo yêu cầu của chủ sản phẩm, có khả năng bán ra thị trường hay chuyển tới người dùng.
+
+Scrum
+
+Đây không không phải là từ viết tắt, mà là cơ chế trong trò chơi bóng bầu dục để đưa “bóng chết” vào cuộc chơi. Từ “scrum” có nghĩa là chen lấn, hàm ý sự hỗn độn, liên chức năng và tự quản cao độ trong các tình huống thực tiễn.
+
+ScrumMaster
+
+Người chịu trách nhiệm cho quy trình Scrum, bao gồm việc triển khai đúng quy tắc, và tối hóa lợi ích từ Scrum.
+
+Scrum Team - Nhóm Scrum
+
+Đây là một nhóm liên chức năng gồm Product Owner, Scrum Master và Development Team (Nhóm Phát triển). Nhóm Scrum sẽ cộng tác với nhau theo khung làm việc Scrum để hiện thực hóa mục tiêu của Product Owner.
+
+Sprint Backlog
+
+Danh sách các nhiệm vụ xác định công việc của  nhóm trong một Sprint. Danh sách này được cập nhật trong suốt Sprint. Nhóm tự quản lý Sprint Backlog bằng việc cập nhật trạng thái thực thi các nhiệm vụ với người chịu trách nhiệm và thời gian còn lại để hoàn tất công việc tính tới thời điểm cập nhật.
+
+Sprint Backlog Task - Tác vụ Sprint Backlog
+
+Một trong những nhiệm vụ mà nhóm hoặc một thành viên xác định theo yêu cầu để chuyển đổi các yêu cầu trong Product Backlog thành chức năng của hệ thống.
+
+Sprint Planning meeting – Họp lập kế hoạch cho Sprint
+
+Cuộc họp diễn ra trong phạm vi tám giờ đồng hồ để khởi động mỗi Sprint.  Họp lập kế hoạch được chia thành hai phân đoạn bốn giờ.Trong bốn giờ đầu tiên Product Owner trình bày các yêu cầu có độ ưu tiên cao nhất cho nhóm phát triển. Nhóm và Product Owner sẽ kết hợp để xác định số lượng các hạng mục sẽ được chọn để tiến hành phát triển trong Sprint tới. Sau bốn giờ đầu tiên, Nhóm và Product Owner xác định mục tiêu của Sprint sắp tới. Trong suốt bốn giờ thứ hai của cuộc họp, Nhóm lập kế hoạch để đạt được mục đích của Sprint bằng các kĩ thuật phân tích và thiết kế cần thiết, và sau đó ghi lại chi tiết công dưới dạng một bản kế hoạch có tên Sprint Backlog.
+
+Sprint Review meeting - Họp Sơ kết Sprint
+
+Đội sản xuất cùng với Product Owner đánh giá lại công việc của Sprint vừa kết thúc. Trong khi đánh giá, Đội sản xuất trình bày các phần việc đã hoàn tất, các chức năng đã hoàn thành; lắng nghe các phản hồi từ Product Owner và thảo luận về các chỉnh sửa (nếu có) sẽ thực hiện trong Sprint tiếp theo.
+
+Sprint Retrospective meeting - Họp cải tiến Sprint
+
+Trong phạm vi ba giờ, ScrumMaster sẽ tổ chức cho nhóm thực hiện công việc khảo sát lại toàn bộ quy trình làm việc của Sprint vừa qua để tìm ra các cải tiến trong Sprint tới, nhằm mang lại hiệu suất cao hơn cho nhóm.
+
+Team  (hay Development Team)– Nhóm Phát triển
+
+Một nhóm liên chức năng (cross-functional) gồm các nhà phát triển (developers) tự quản lý để tiến hành chuyển đổi các Product Backlog item thành chức năng của hệ thống. Đây là một trong ba vai trò tạo nên Nhóm Scrum (còn gọi là Đội hình Scrum).
+
+Timebox - Khung thời gian
+
+Là khoảng thời gian tối đa dành cho một hoạt động nào đó trong Scrum. Khi nói Daily Scrum là đóng hộp trong mười lăm phút thì có nghĩa là Đội dự án không thể dùng quá mười lăm phút cho cuộc họp hằng ngày Daily Scrum. Các Hộp thời gian trong Scrum có thể kể đến là Release Planning, Sprint Planning, Sprint, Daily Scrum, Sprint Review và Sprint Retrospective.
+
+Stakeholder – người liên quan
+
+Người có sự quan tâm đến kết quả của một dự án (có tài trợ cho nó, sẽ sử dụng, hoặc sẽ bị ảnh hưởng bởi sản phẩm tạo ra từ dự án).
