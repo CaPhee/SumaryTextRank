@@ -1,4 +1,4 @@
-package dtu.str.graph;
+package dtu.str.pretreatment;
 
 import java.util.ArrayList;
 import java.util.Arrays;

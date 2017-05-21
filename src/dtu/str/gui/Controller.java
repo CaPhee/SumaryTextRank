@@ -1,6 +1,6 @@
 package dtu.str.gui;
 
-import dtu.str.graph.Node;
+import dtu.str.pretreatment.Node;
 import dtu.str.graph.comparator.NodeIndexComparator;
 import dtu.str.summary.Summarizer;
 import java.util.Collections;

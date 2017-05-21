@@ -1,6 +1,6 @@
 package dtu.str.gui;
 
-import dtu.str.graph.Node;
+import dtu.str.pretreatment.Node;
 import dtu.str.unit.SystemInfo;
 import java.awt.BasicStroke;
 import java.awt.Color;
@@ -13,48 +13,48 @@ import java.text.DecimalFormat;
  * 
  * @author tannn
  * 
- * The class Point is the node on graph
- * It includes position, values  
+ * Class mo ta node tren do thi 
+ * bao gom position, values  
  *  
  */
 public class Point extends Node implements Serializable, Drawable{   
     
     /**
-     * X coordinate (flow Ox ray)
+     * Tọa độ X(Theo trục Ox)
      */
     private int x;
     
     /**
-     * Y coordinate (flow Oy ray)
+     * Tọa độ Y(Theo trục Oy)
      */
     private int y;
     
     /**
-     * The number of connection which do not cross each other
+     * Số lượng các kết nối
      */
     private int safeConnect;    
    
     /**
-     * Instantiates a new point without parameter
+     * Hàm khởi tạo không tham số
      */
     public Point() {
         this(0, 0, 0);
     }
     
     /**
-     * Instantiates a new point 
-     * @param x coordinate 
-     * @param y coordinate 
+     * Hàm khởi tạo có tham số tọa độ x,y
+     * @param x tạo độ x
+     * @param y tọa dộ y
      */
     public Point(int x, int y) {
         this(x, y, 0);
     }
      
     /**
-     * Instantiates a new point
-     * @param x coordinate 
-     * @param y coordinate 
-     * @param safeConnect number of safe connection
+     * Hàm khởi tạo với tham số x,y,safeConnect
+     * @param x Tọa độ x 
+     * @param y Tọa độ y 
+     * @param safeConnect Số điểm kết nối 
      */
     public Point(int x, int y, int safeConnect) {        
         this.x = x;
@@ -63,7 +63,7 @@ public class Point extends Node implements Serializable, Drawable{
     }
     
     /**
-     * Instantiates a new point via crawl other node
+     * Hàm khởi tọa một node mới thông qua 1 node cho trước
      * @param n node
      */
     public Point(Node n){                

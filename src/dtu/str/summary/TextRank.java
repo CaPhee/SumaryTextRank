@@ -1,7 +1,7 @@
 package dtu.str.summary;
 
-import dtu.str.graph.Graph;
-import dtu.str.graph.Node;
+import dtu.str.pretreatment.Graph;
+import dtu.str.pretreatment.Node;
 import dtu.str.unit.PreText;
 
 import java.util.ArrayList;

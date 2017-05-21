@@ -1,6 +1,6 @@
 package dtu.str.graph.comparator;
 
-import dtu.str.graph.Node;
+import dtu.str.pretreatment.Node;
 
 import java.util.Comparator;
 

@@ -1,4 +1,4 @@
-package dtu.str.graph;
+package dtu.str.pretreatment;
 
 import org.apache.commons.math.stat.descriptive.SummaryStatistics;
 
@@ -50,4 +50,4 @@ public class Graph extends TreeMap<String, Node> {
         }
     }
 
-} // end of class Graph
+} 
